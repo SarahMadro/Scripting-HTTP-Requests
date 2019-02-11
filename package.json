@@ -1,0 +1,22 @@
+{
+  "name": "scripthttprequests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjay3000/Scripting-HTTP-Requests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjay3000/Scripting-HTTP-Requests/issues"
+  },
+  "homepage": "https://github.com/sjay3000/Scripting-HTTP-Requests#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
